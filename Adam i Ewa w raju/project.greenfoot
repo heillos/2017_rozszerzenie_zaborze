@@ -1,0 +1,22 @@
+#Greenfoot properties
+#Thu Sep 21 15:33:37 CEST 2017
+class.Ewa.image=girl1.png
+project.charset=UTF-8
+mainWindow.height=600
+version=3.0.0
+class.MyWorld.image=sand2.jpg
+simulation.speed=51
+world.lastInstantiated=MyWorld
+class.MyWorld.superclass=greenfoot.World
+class.Wychodek.superclass=greenfoot.Actor
+class.Drzewo.image=tree3.png
+class.Apple.superclass=greenfoot.Actor
+mainWindow.y=40
+mainWindow.x=40
+class.Adam.superclass=greenfoot.Actor
+class.Ewa.superclass=greenfoot.Actor
+class.Adam.image=boy1.png
+mainWindow.width=850
+class.Wychodek.image=house-04.png
+class.Apple.image=apple1.png
+class.Drzewo.superclass=greenfoot.Actor
